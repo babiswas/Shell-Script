@@ -1,0 +1,7 @@
+hello world
+I have no work today
+whhat sshould I do
+So I decided to learn shell scripting
+shell scripting is awesome
+I love shell scripting
+
